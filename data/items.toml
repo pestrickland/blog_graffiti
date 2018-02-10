@@ -1,0 +1,29 @@
+[[items]]
+title = "Green Door"
+image = "images/full/1.jpg"
+thumb = "images/thumbs/1.jpg"
+alt = "Green Door"
+description = "I like to think of this as a guest book; a simple record of visitors to this park."
+url = ""
+
+[[items]]
+title = "A splash of colour"
+image = "images/full/2.jpg"
+thumb = "images/thumbs/2.jpg"
+alt = "A splash of colour"
+description = "Decorating a nearby subway, this bright green really stands out. I'm not sure if the black tag goes alongside the piece, but I don't think it detracts from it."
+url = ""
+[[items]]
+title = "Summer tones"
+image = "images/full/3.jpg"
+thumb = "images/thumbs/3.jpg"
+alt = "Summer tones"
+description = "This wall is a well-used canvas, and the location of several large pieces. The use of the yellow diagonals is intriguing."
+url = ""
+[[items]]
+title = "Hugrid Theme"
+image = "images/full/4.jpg"
+thumb = "images/thumbs/4.jpg"
+alt = "Hugrid Theme"
+description = "By restricting the palette, the emphasis shifts to shape and contrast, but ultimately it is the expression in this example that makes it stand out."
+url = ""
