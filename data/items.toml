@@ -27,3 +27,10 @@ thumb = "images/thumbs/4.jpg"
 alt = "Thumbs up"
 description = "By restricting the palette, the emphasis shifts to shape and contrast, but ultimately it is the expression in this example that makes it stand out."
 url = ""
+
+[[items]]
+title = "Bleak"
+image = "images/full/5.jpg"
+thumb = "images/thumb/5.jpg"
+alt = "Bleak"
+description = "Not a great deal can be said about this. With so much space comes so much potential, but ultimately it is wasted here. Whilst there is clearly some pride in the artist's work, a major improvement would be seen by the use of correct spelling."
