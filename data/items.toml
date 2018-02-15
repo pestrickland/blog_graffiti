@@ -34,3 +34,10 @@ image = "images/full/5.jpg"
 thumb = "images/thumbs/5.jpg"
 alt = "Bleak"
 description = "Not a great deal can be said about this. With so much space comes so much potential, but ultimately it is wasted here. Whilst there is clearly some pride in the artist's work, a major improvement would be seen by the use of correct spelling."
+
+[[items]]
+title = "Mosaic"
+image = "images/full/6f.jpg"
+thumb = "images/thumbs/6t.jpg"
+alt = "Mosaic"
+description = "The tiled background adds nearly all the interest here. A couple of other notable features are the styling of the initial character (an 'M'?), and the curious upside-down Amazon smile."
