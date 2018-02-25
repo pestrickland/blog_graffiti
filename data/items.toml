@@ -41,3 +41,10 @@ image = "images/full/6f.jpg"
 thumb = "images/thumbs/6t.jpg"
 alt = "Mosaic"
 description = "The tiled background adds nearly all the interest here. A couple of other notable features are the styling of the initial character (an 'M'?), and the curious upside-down Amazon smile."
+
+[[items]]
+title = "Loud"
+image = "images/full/7f.jpg"
+thumb = "images/thumbs/7t.jpg"
+alt = "Loud"
+description = "A slightly faded example of stencilling. One wonders whether the location of this piece was intended to convey meaning, being placed above the entrance to a fairly low underpass that often causes people to duck down. And what about its proximity to the pedestrian sign?"
