@@ -48,3 +48,10 @@ image = "images/full/7f.jpg"
 thumb = "images/thumbs/7t.jpg"
 alt = "Loud"
 description = "A slightly faded example of stencilling. One wonders whether the location of this piece was intended to convey meaning, being placed above the entrance to a fairly low underpass that often causes people to duck down. And what about its proximity to the pedestrian sign?"
+
+[[items]]
+title = "Cobbles"
+image = "images/full/8f.jpg"
+thumb = "images/thumbs/8t.jpg"
+alt = "Cobbles"
+description = "I've always wondered why graffiti tends to be limited to walls. I've also wondered if this is, in fact, graffiti or if it's actually the markings for some road works. I like to embrace wonder on occasion."
