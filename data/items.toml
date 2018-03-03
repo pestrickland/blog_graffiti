@@ -55,3 +55,10 @@ image = "images/full/8f.jpg"
 thumb = "images/thumbs/8t.jpg"
 alt = "Cobbles"
 description = "I've always wondered why graffiti tends to be limited to walls. I've also wondered if this is, in fact, graffiti or if it's actually the markings for some road works. I like to embrace wonder on occasion."
+
+[[items]]
+title = "Corn"
+image = "images/full/9f.jpg"
+thumb = "images/thumbs/9t.jpg"
+alt = "Corn"
+description = "On a run in the countryside, quite far from populated areas and in the snow, what do I find but a half-eaten cob of corn. I was quite unsure what to make of it, and it was quite vivid after seeing nothing but white for an hour or so."
