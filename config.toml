@@ -4,7 +4,7 @@ languageCode = "en-gb"
 title = "Graffiti Notebook"
 theme = "hugrid"
 # Enter your tracking code to enable Google Analytics
-googleAnalytics = "UA-XXXXXXXX-Y"
+googleAnalytics = "UA-115009739-1"
 
 contentdir = "content"
 datadir = "data"
