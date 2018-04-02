@@ -76,3 +76,10 @@ image = "images/full/11f.jpg"
 thumb = "images/thumbs/11t.jpg"
 alt = "Bike"
 description = "A rather well-used sign here. I wonder what the criteria are for the replacement of stickers, or indeed whether criteria for any aspect of this enterprise exist. Perhaps it is ironic, or maybe just interesting, that the existence of the graffiti and the stickers, coupled with the faded and somewhat whitewashed brickwork, only serve to increase the prominence of the sign."
+
+[[items]]
+title = "Purple"
+image = "images/full/12f.jpg"
+thumb = "images/thumbs/12t.jpg"
+alt = "Purple"
+description = "Down a quiet footpath we find a fairly large piece that stands alone. As such it stands out, although I can't help but feel that this is somewhat unfinished, or doesn't reach its potential. It's clear and bold, yes, with a touch of intricacy with the layered lettering, but one is left wondering if that was really the best that could be done."
