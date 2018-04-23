@@ -83,3 +83,10 @@ image = "images/full/12f.jpg"
 thumb = "images/thumbs/12t.jpg"
 alt = "Purple"
 description = "Down a quiet footpath we find a fairly large piece that stands alone. As such it stands out, although I can't help but feel that this is somewhat unfinished, or doesn't reach its potential. It's clear and bold, yes, with a touch of intricacy with the layered lettering, but one is left wondering if that was really the best that could be done."
+
+[[items]]
+title = "Brick"
+image = "images/full/13f.jpg"
+thumb = "images/thumbs/13t.jpg"
+alt = "Brick"
+description = "A rural railway bridge provides the background for this example. Clearly an aged piece, the brickwork has been repaired since the paint was first applied. One can only imagine how this might have looked in its prime."
