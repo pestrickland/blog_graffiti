@@ -90,3 +90,10 @@ image = "images/full/13f.jpg"
 thumb = "images/thumbs/13t.jpg"
 alt = "Brick"
 description = "A rural railway bridge provides the background for this example. Clearly an aged piece, the brickwork has been repaired since the paint was first applied. One can only imagine how this might have looked in its prime."
+
+[[items]]
+title = "Bubbles"
+image = "images/full/14f.jpg"
+thumb = "images/thumbs/14t.jpg"
+alt = "Bubbles"
+description = "The local subway received a new coat of white paint, and this was soon added. It's gone now, stripped off in a way that may actually be unsanctioned by the local authorities given the stench of domestic paint that haunts the place now. Anyway, I particularly enjoyed the little details added within the letters. A seaside theme perhaps?"
