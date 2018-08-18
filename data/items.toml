@@ -97,3 +97,10 @@ image = "images/full/14f.jpg"
 thumb = "images/thumbs/14t.jpg"
 alt = "Bubbles"
 description = "The local subway received a new coat of white paint, and this was soon added. It's gone now, stripped off in a way that may actually be unsanctioned by the local authorities given the stench of domestic paint that haunts the place now. Anyway, I particularly enjoyed the little details added within the letters. A seaside theme perhaps?"
+
+[[items]]
+title = "Letterbox"
+image = "images/full/15f.jpg"
+thumb = "images/thumbs/15t.jpg"
+alt = "Letterbox"
+description = "Nestled inside a light fitting, this well-framed but diminutive piece suggests a certain shyness in the artist."
