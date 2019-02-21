@@ -104,3 +104,10 @@ image = "images/full/15f.jpg"
 thumb = "images/thumbs/15t.jpg"
 alt = "Letterbox"
 description = "Nestled inside a light fitting, this well-framed but diminutive piece suggests a certain shyness in the artist."
+
+[[items]]
+title = "On edge"
+image = "images/full/16f.jpg"
+thumb = "images/thumbs/16t.jpg"
+alt = "On edge"
+description = "A very interesting piece. A new artist perhaps, but almost certainly a new style. I wonder if the combination of the angular, almost block-like facial features and the mosaic background was a deliberate choice? As for the splash of colour, it's hard to decide whether this was part of the original design, or was added afterwards to an otherwise monochrome painting."
