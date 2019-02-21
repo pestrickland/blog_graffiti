@@ -111,3 +111,10 @@ image = "images/full/16f.jpg"
 thumb = "images/thumbs/16t.jpg"
 alt = "On edge"
 description = "A very interesting piece. A new artist perhaps, but almost certainly a new style. I wonder if the combination of the angular, almost block-like facial features and the mosaic background was a deliberate choice? As for the splash of colour, it's hard to decide whether this was part of the original design, or was added afterwards to an otherwise monochrome painting."
+
+[[items]]
+title = "Commentary"
+image = "images/full/17f.jpg"
+thumb = "images/thumbs/17t.jpg"
+alt = "Commentary"
+description = "Clearly not a painting, I almost dismissed this as litter whilst out on a morning run. But observe the arrangement of the items of food: the bag is open to reveal its contents; the straws form an arrow; the chips almost form some letters. Its placement between the surfaced road and the bare earth appears to be deliberate too -- perhaps the direction of the arrow illustrates the relentless march of progress towards modernity, but the rubbish alerts us to the waste that is often left behind."
