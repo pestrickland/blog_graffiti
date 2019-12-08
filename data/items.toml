@@ -125,3 +125,10 @@ image = "images/full/18f.jpg"
 thumb = "images/thumbs/18t.jpg"
 alt = "Roach"
 description = "Quite a prolific motif recently, this has very little to offer the world. With the exception of the arrow-styled 'A', there is no interest offered to the viewer."
+
+[[items]]
+title = "Numbers"
+image = "images/full/19f.jpg"
+thumb = "images/thumbs/19t.jpg"
+alt = "Numbers"
+description = "With a fairly simple palette, it's surprising how much this piece stands out. The numbers of the title take some time to appear to the viewer, and it is unclear if it is 113 or 713. As for the spots or bubble-type features, one is left wondering whether or not they were part of the original design, or an afterthought. Notice too how nature is in conflict with this piece."
