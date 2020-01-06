@@ -14,10 +14,10 @@ publishdir = "public"
 [params]
     # Meta
     title = "Graffiti Notebook"
-    subtitle = "Just a simple record of the various graffiti and tagging I find."
+    subtitle = "A simple record of the various graffiti and tagging I find."
     author = "P E Strickland"
-    description = "Hugrid - grid theme for Hugo with an expanding image preview."
-    keywords = "Hugo, Grid theme, portfolio, bookmarks, collection"
+    description = "Photographs and critiques of graffiti and tagging. Tongue-in-cheek."
+    keywords = "Photography, Satire"
 
     # Body background color
     bodybgcolor = "#aab8c4"
@@ -26,7 +26,7 @@ publishdir = "public"
     buttontext = "Read more"
 
     # Footer text
-    footertext = """Site built with [Hugo](http://gohugo.io). Powered by Pi.
+    footertext = """Site built with [Hugo](http://gohugo.io). Powered by netlify.
     Theme by [Codrops](http://tympanus.net/codrops/2013/03/19/thumbnail-grid-with-expanding-preview/)
     and [Pavel Kanyshev](https://github.com/aerohub)"""
 
