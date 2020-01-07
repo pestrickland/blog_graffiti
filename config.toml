@@ -1,5 +1,5 @@
 # Site settings
-baseurl = "http://graffiti.pestrickland.co.uk/"
+baseurl = "https://graffiti.pestrickland.co.uk/"
 languageCode = "en-gb"
 title = "Graffiti Notebook"
 theme = "hugrid"
