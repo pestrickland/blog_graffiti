@@ -137,5 +137,12 @@ description = "With a fairly simple palette, it's surprising how much this piece
 title = "Smile"
 image = "images/full/20f.jpg"
 thumb = "images/thumbs/20t.jpg"
-alt = "Smile" 
+alt = "Smile"
 description = "An unassuming scribble and diminutive in size, this brightened up an otherwise dull day."
+
+[[items]]
+title = "Heart"
+image = "images/full/21f.jpg"
+thumb = "images/thumbs/21t.jpg"
+alt = "Heart"
+description = "Rarely do we see the use of different mediums in graffiti. Here, the texture of the artwork is as enlightening as the message itself."
