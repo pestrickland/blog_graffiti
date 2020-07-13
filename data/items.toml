@@ -146,3 +146,10 @@ image = "images/full/21f.jpg"
 thumb = "images/thumbs/21t.jpg"
 alt = "Heart"
 description = "Rarely do we see the use of different mediums in graffiti. Here, the texture of the artwork is as enlightening as the message itself."
+
+[[items]]
+title = "Skull"
+image = "images/full/22f.jpg"
+thumb = "images/thumbs/22t.jpg"
+alt = "Skull"
+description = "Quite a clever little piece. Little meaning though."
