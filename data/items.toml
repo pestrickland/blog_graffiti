@@ -153,3 +153,10 @@ image = "images/full/22f.jpg"
 thumb = "images/thumbs/22t.jpg"
 alt = "Skull"
 description = "Quite a clever little piece. Little meaning though."
+
+[[items]]
+title = "Negative Space"
+image = "images/full/23f.jpg"
+thumb = "images/thumbs/23t.jpg"
+alt = "Negative Space"
+description = "This photo does not have the same impact as the actual piece, which struck me by the illusion of the symbols protrayed in negative space. It showed some unique developments among the proliferation of recent tagging"
