@@ -160,3 +160,10 @@ image = "images/full/23f.jpg"
 thumb = "images/thumbs/23t.jpg"
 alt = "Negative Space"
 description = "This photo does not have the same impact as the actual piece, which struck me by the illusion of the symbols protrayed in negative space. It showed some unique developments among the proliferation of recent tagging"
+
+[[items]]
+title = "Evolution"
+image = "images/full/24f.jpg"
+thumb = "images/thumbs/24t.jpg"
+alt = "Evolution"
+description = "What we see here is an evolution of the Roach tag that was prolific a year or so ago. Is this an exercise in the development of the artist, or a more commercial 'rebranding' activity? There certainly seems to be more technical merit, and the balance is more pleasing to the eye than the original attempt. It is, however, still quite primitive."
