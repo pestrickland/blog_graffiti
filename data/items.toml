@@ -167,3 +167,10 @@ image = "images/full/24f.jpg"
 thumb = "images/thumbs/24t.jpg"
 alt = "Evolution"
 description = "What we see here is an evolution of the Roach tag that was prolific a year or so ago. Is this an exercise in the development of the artist, or a more commercial 'rebranding' activity? There certainly seems to be more technical merit, and the balance is more pleasing to the eye than the original attempt. It is, however, still quite primitive."
+
+[[items]]
+title = "Fish"
+image = "images/full/25f.jpg"
+thumb = "images/thumbs/25t.jpg"
+alt = "fish"
+description = "A fairly simple concept but with a neat execution, the viewer is left with doubt about the meaning of this piece. Note the detail of the crossed-out eye -- a nod to our mortality perhaps?"
