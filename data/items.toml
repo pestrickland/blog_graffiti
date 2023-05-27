@@ -174,3 +174,10 @@ image = "images/full/25f.jpg"
 thumb = "images/thumbs/25t.jpg"
 alt = "fish"
 description = "A fairly simple concept but with a neat execution, the viewer is left with doubt about the meaning of this piece. Note the detail of the crossed-out eye -- a nod to our mortality perhaps?"
+
+[[items]]
+title = "Boot?"
+image = "images/full/26f.jpg"
+thumb = "images/thumbs/26t.jpg"
+alt = "Boot"
+description = "At first glance, this piece is chaotic and looks like an aborted attempt. However, it appears in a similar form in several different spaces, which leads us to consider that it is all deliberate. There are several tropes on show, from the classic spliff-smoker to affinity with anarchic philosophy. But it is still unclear how much of this is intended to baffle the viewer."
