@@ -181,3 +181,10 @@ image = "images/full/26f.jpg"
 thumb = "images/thumbs/26t.jpg"
 alt = "Boot"
 description = "At first glance, this piece is chaotic and looks like an aborted attempt. However, it appears in a similar form in several different spaces, which leads us to consider that it is all deliberate. There are several tropes on show, from the classic spliff-smoker to affinity with anarchic philosophy. But it is still unclear how much of this is intended to baffle the viewer."
+
+[[items]]
+title = "Boot 2"
+image = "images/full/27f.jpg"
+thumb = "images/thumbs/27t.jpg"
+alt = "Boot 2"
+description = "Note the similar motifs present here and the previous image. Whilst not as similar as I first thought, there is clearly a certain style in use on all of our subways..."
