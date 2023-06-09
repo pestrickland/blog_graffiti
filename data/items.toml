@@ -188,3 +188,17 @@ image = "images/full/27f.jpg"
 thumb = "images/thumbs/27t.jpg"
 alt = "Boot 2"
 description = "Note the similar motifs present here and the previous image. Whilst not as similar as I first thought, there is clearly a certain style in use on all of our subways..."
+
+[[items]]
+title = "Boot 3"
+image = "images/full/28f.jpg"
+thumb = "images/thumbs/28t.jpg"
+alt = "Boot 3"
+description = "Another example, this time found on the opposite side of the city, but still in a subway."
+
+[[items]]
+title = "Boot 4"
+image = "images/full/29f.jpg"
+thumb = "images/thumbs/29t.jpg"
+alt = "Boot 4"
+description = "And another one!"
